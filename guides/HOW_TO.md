@@ -185,7 +185,7 @@ print(ask("Reply: Jekacode is ready.", provider="grok"))
 
 ## 4. DeepSeek (optional third cloud)
 
-1. [https://platform.deepseek.com](https://platform.deepseek.com)
+1. [https://platform.deepseek.com](s://plhttpatform.deepseek.com)
 2. Create an API key
 3. In `.env`: `DEEPSEEK_API_KEY=...`
 
