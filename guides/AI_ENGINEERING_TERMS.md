@@ -34,7 +34,7 @@ Classroom models: **Gemini**, **Grok**, **DeepSeek**, **Ollama**, Hugging Face.
 | **User prompt** | What the person typed today |
 | **Completion / response** | What the model writes back |
 | **API** | A doorway with rules (waiter + kitchen) |
-| **API key** | Password for that doorway. Lives in `.env` |
+| **API key** | Password for that doorway. Lives in `.env` | 
 | **Endpoint** | The URL you POST to |
 | **JSON** | How computers pack data `{ "reply": "..." }` |
 | **SDK** | A library that hides HTTP. We often use `requests` so you *see* the door |
