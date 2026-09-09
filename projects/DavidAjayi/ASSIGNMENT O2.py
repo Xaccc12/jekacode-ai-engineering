@@ -1,4 +1,4 @@
-# Assignment Week 2 - Class Statistics
+# MINI PROJECT Week 02 - Class Statistics
 dct = {
     'Daniel': 89,
     'John': 49,
