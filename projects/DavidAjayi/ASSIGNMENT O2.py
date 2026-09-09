@@ -28,9 +28,9 @@ for name, score in dct.items():
     else:
         print(name, ":", score, "- Fail")
         prompt = f"""
-        The class average is {average} ,
+        The class average is {average},
         The highest score is {highest},
-        The lowest score is {lowest}
+        The lowest score is {lowest},
         
         Write a one line paragraph summary of the class performance in plain english.
         """
