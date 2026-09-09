@@ -16,7 +16,6 @@ def class_statistics(scores):
 
     return average, highest, lowest
 
-
 average, highest, lowest = class_statistics(dct)
 
 print("Class Average:", average)
