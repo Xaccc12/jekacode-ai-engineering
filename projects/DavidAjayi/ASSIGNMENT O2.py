@@ -1,3 +1,4 @@
+# Assignment Week 2 - Class Statistics
 dct = {
     'Daniel': 89,
     'John': 49,
