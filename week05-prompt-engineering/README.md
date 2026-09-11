@@ -10,10 +10,12 @@ Terms: [../guides/AI_ENGINEERING_TERMS.md](../guides/AI_ENGINEERING_TERMS.md)
 **Tools:** Gemini/Grok. Gradio or Streamlit.
 
 **How to:**
+
 ```bash
 python week05-prompt-engineering/gradio_app.py
 streamlit run week05-prompt-engineering/business_assistant.py
 ```
+
 [../guides/HOW_TO.md](../guides/HOW_TO.md)
 
 **What goes on behind the scenes:** A **system prompt** is extra text prepended as policy. The model still only predicts tokens. **Chaining** = output of step 1 becomes input of step 2. Each `ask()` is a new inference (more latency).
